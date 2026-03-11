@@ -21,9 +21,7 @@ PromptWizard is Microsoft Research's framework for iterative prompt optimization
 
 | File | Description |
 |------|-------------|
-| `promptwizard_example.py` | Sentiment classification (5-point scale) — demonstrates the full algorithm |
 | `promptwizard_antisycophancy.py` | Response generation task — optimizes prompts to avoid sycophancy and provide direct, fact-based replies |
-| `promptwizard_example_result.txt` | Sample output from the sentiment example |
 | `promptwizard_antisycophancy_result.txt` | Sample output from the anti-sycophancy example |
 
 ## Setup
